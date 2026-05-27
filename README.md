@@ -1,0 +1,1 @@
+La aplicación colabora para tomar la decisión de pagar el precio de contado o poder financiarlo, mostrando si es buena la oferta, normal o mala. En paises con inflación el pago en cuotas siempre produce tentación y la gente con poco conocimiento financiero termina pagando montos mucho mayores al valor real del producto.
